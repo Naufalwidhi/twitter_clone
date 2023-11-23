@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483744469628",
+    "project_id": "minimal-socialmedia",
+    "storage_bucket": "minimal-socialmedia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483744469628:android:76d7f60f2c08ee52c66ff9",
+        "android_client_info": {
+          "package_name": "com.twitter.clone.twitter_clone_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFP-xjpK7aBSSIzmRPCcIAAiyQ6HEUK4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
